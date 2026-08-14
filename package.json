@@ -5,6 +5,7 @@
   "description": "Public website and documentation for Resuma.",
   "scripts": {
     "serve": "python3 -m http.server 4173 --directory site",
+    "serve:docs": "python3 -m http.server 4174 --directory docs",
     "test": "playwright test"
   },
   "devDependencies": {
