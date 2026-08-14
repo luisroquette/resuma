@@ -96,6 +96,7 @@
       "_origin": "ast",
       "id": "core_engine_resumaengine",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "resumaengine"
     },
     {
@@ -108,6 +109,7 @@
       "_origin": "ast",
       "id": "core_store_inmemorycommunitystore",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "inmemorycommunitystore"
     },
     {
@@ -120,6 +122,7 @@
       "_origin": "ast",
       "id": "core_types_communitymessage",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "communitymessage"
     },
     {
@@ -132,6 +135,7 @@
       "_origin": "ast",
       "id": "core_types_communityrecord",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "communityrecord"
     },
     {
@@ -144,6 +148,7 @@
       "_origin": "ast",
       "id": "core_types_communitystore",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "communitystore"
     },
     {
@@ -156,6 +161,7 @@
       "_origin": "ast",
       "id": "core_types_messageadapter",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "messageadapter"
     },
     {
@@ -168,6 +174,7 @@
       "_origin": "ast",
       "id": "core_types_messagekind",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "messagekind"
     },
     {
@@ -180,6 +187,7 @@
       "_origin": "ast",
       "id": "core_types_participantevent",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "participantevent"
     },
     {
@@ -192,6 +200,7 @@
       "_origin": "ast",
       "id": "core_types_processresult",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "processresult"
     },
     {
@@ -204,6 +213,7 @@
       "_origin": "ast",
       "id": "core_types_resumaconfig",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "resumaconfig"
     },
     {
@@ -216,6 +226,7 @@
       "_origin": "ast",
       "id": "core_types_searchresult",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "searchresult"
     },
     {
@@ -228,6 +239,7 @@
       "_origin": "ast",
       "id": "core_types_summary",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "summary"
     },
     {
@@ -240,6 +252,7 @@
       "_origin": "ast",
       "id": "core_types_triggercampaign",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "triggercampaign"
     },
     {
@@ -252,6 +265,7 @@
       "_origin": "ast",
       "id": "core_types_weeklycampaign",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "weeklycampaign"
     },
     {
@@ -263,6 +277,7 @@
       "_origin": "ast",
       "id": "core_campaigns_dispatchdueweeklycampaigns",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "dispatchdueweeklycampaigns()"
     },
     {
@@ -274,6 +289,7 @@
       "_origin": "ast",
       "id": "core_campaigns_dueweeklycampaigns",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "dueweeklycampaigns()"
     },
     {
@@ -285,6 +301,7 @@
       "_origin": "ast",
       "id": "core_campaigns_localparts",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "localparts()"
     },
     {
@@ -296,6 +313,7 @@
       "_origin": "ast",
       "id": "core_engine_campaignfor",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "campaignfor()"
     },
     {
@@ -307,6 +325,7 @@
       "_origin": "ast",
       "id": "core_engine_ismessage",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "ismessage()"
     },
     {
@@ -318,6 +337,7 @@
       "_origin": "ast",
       "id": "core_engine_resumaengine_constructor",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".constructor()"
     },
     {
@@ -329,6 +349,7 @@
       "_origin": "ast",
       "id": "core_engine_resumaengine_process",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".process()"
     },
     {
@@ -340,6 +361,7 @@
       "_origin": "ast",
       "id": "core_engine_validaterecord",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "validaterecord()"
     },
     {
@@ -351,6 +373,7 @@
       "_origin": "ast",
       "id": "core_search_renderanswer",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "renderanswer()"
     },
     {
@@ -362,6 +385,7 @@
       "_origin": "ast",
       "id": "core_store_inmemorycommunitystore_append",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".append()"
     },
     {
@@ -373,6 +397,7 @@
       "_origin": "ast",
       "id": "core_store_inmemorycommunitystore_claim",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".claim()"
     },
     {
@@ -384,6 +409,7 @@
       "_origin": "ast",
       "id": "core_store_inmemorycommunitystore_list",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".list()"
     },
     {
@@ -395,6 +421,7 @@
       "_origin": "ast",
       "id": "core_types_communitystore_append",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".append()"
     },
     {
@@ -406,6 +433,7 @@
       "_origin": "ast",
       "id": "core_types_communitystore_claim",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".claim()"
     },
     {
@@ -417,6 +445,7 @@
       "_origin": "ast",
       "id": "core_types_communitystore_list",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".list()"
     },
     {
@@ -428,6 +457,7 @@
       "_origin": "ast",
       "id": "core_types_messageadapter_sendtext",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": ".sendtext()"
     },
     {
@@ -439,6 +469,7 @@
       "_origin": "ast",
       "id": "examples_local_demo_main",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "main()"
     },
     {
@@ -450,6 +481,7 @@
       "_origin": "ast",
       "id": "tests_core_test_sendtext",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "sendtext()"
     },
     {
@@ -461,6 +493,7 @@
       "_origin": "ast",
       "id": "site_script_syncheader",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "syncheader()"
     },
     {
@@ -472,6 +505,7 @@
       "_origin": "ast",
       "id": "docs_script_updateheader",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "updateheader()"
     },
     {
@@ -483,6 +517,7 @@
       "_origin": "ast",
       "id": "core_search_searchhistory",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "searchhistory()"
     },
     {
@@ -494,6 +529,7 @@
       "_origin": "ast",
       "id": "core_summary_dynamictopics",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "dynamictopics()"
     },
     {
@@ -505,6 +541,7 @@
       "_origin": "ast",
       "id": "core_summary_safelink",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "safelink()"
     },
     {
@@ -516,6 +553,7 @@
       "_origin": "ast",
       "id": "core_summary_summarize",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "summarize()"
     },
     {
@@ -527,6 +565,7 @@
       "_origin": "ast",
       "id": "core_summary_usefulscore",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "usefulscore()"
     },
     {
@@ -538,6 +577,7 @@
       "_origin": "ast",
       "id": "core_text_normalize",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "normalize()"
     },
     {
@@ -549,6 +589,7 @@
       "_origin": "ast",
       "id": "core_text_shorten",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "shorten()"
     },
     {
@@ -560,6 +601,7 @@
       "_origin": "ast",
       "id": "core_text_terms",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "terms()"
     },
     {
@@ -571,6 +613,7 @@
       "_origin": "ast",
       "id": "core_text_unique",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "unique()"
     },
     {
@@ -581,6 +624,7 @@
       "_origin": "ast",
       "id": "core_campaigns",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "campaigns.ts"
     },
     {
@@ -591,6 +635,7 @@
       "_origin": "ast",
       "id": "core_engine",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "engine.ts"
     },
     {
@@ -601,6 +646,7 @@
       "_origin": "ast",
       "id": "core_index",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "index.ts"
     },
     {
@@ -611,6 +657,7 @@
       "_origin": "ast",
       "id": "core_store",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "store.ts"
     },
     {
@@ -621,6 +668,7 @@
       "_origin": "ast",
       "id": "core_types",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "types.ts"
     },
     {
@@ -631,6 +679,7 @@
       "_origin": "ast",
       "id": "examples_local_demo",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "local-demo.ts"
     },
     {
@@ -641,6 +690,7 @@
       "_origin": "ast",
       "id": "examples_local_demo_adapter",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "adapter"
     },
     {
@@ -651,6 +701,7 @@
       "_origin": "ast",
       "id": "examples_local_demo_engine",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "engine"
     },
     {
@@ -661,6 +712,7 @@
       "_origin": "ast",
       "id": "examples_local_demo_sent",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "sent"
     },
     {
@@ -671,6 +723,7 @@
       "_origin": "ast",
       "id": "tests_core_test",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "core.test.ts"
     },
     {
@@ -681,6 +734,7 @@
       "_origin": "ast",
       "id": "tests_core_test_messages",
       "community": 0,
+      "community_name": "index.ts",
       "norm_label": "messages"
     },
     {
@@ -691,6 +745,7 @@
       "_origin": "ast",
       "id": "playwright_config",
       "community": 10,
+      "community_name": "playwright.config.js",
       "norm_label": "playwright.config.js"
     },
     {
@@ -701,47 +756,8 @@
       "_origin": "ast",
       "id": "playwright_config_defineconfig_devices",
       "community": 10,
+      "community_name": "playwright.config.js",
       "norm_label": "{ defineconfig, devices }"
-    },
-    {
-      "label": "pages.spec.js",
-      "file_type": "code",
-      "source_file": "tests/pages.spec.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "tests_pages_spec",
-      "community": 10,
-      "norm_label": "pages.spec.js"
-    },
-    {
-      "label": "{ test, expect }",
-      "file_type": "code",
-      "source_file": "tests/pages.spec.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "tests_pages_spec_test_expect",
-      "community": 10,
-      "norm_label": "{ test, expect }"
-    },
-    {
-      "label": "site.spec.js",
-      "file_type": "code",
-      "source_file": "tests/site.spec.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "tests_site_spec",
-      "community": 10,
-      "norm_label": "site.spec.js"
-    },
-    {
-      "label": "{ test, expect }",
-      "file_type": "code",
-      "source_file": "tests/site.spec.js",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "tests_site_spec_test_expect",
-      "community": 10,
-      "norm_label": "{ test, expect }"
     },
     {
       "label": "site/script.js",
@@ -751,6 +767,7 @@
       "_origin": "ast",
       "id": "site_script",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "site/script.js"
     },
     {
@@ -761,6 +778,7 @@
       "_origin": "ast",
       "id": "site_script_header",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "header"
     },
     {
@@ -771,6 +789,7 @@
       "_origin": "ast",
       "id": "site_script_menu",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "menu"
     },
     {
@@ -781,6 +800,7 @@
       "_origin": "ast",
       "id": "site_script_menubutton",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "menubutton"
     },
     {
@@ -791,6 +811,7 @@
       "_origin": "ast",
       "id": "site_script_reveals",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "reveals"
     },
     {
@@ -801,6 +822,7 @@
       "_origin": "ast",
       "id": "site_script_year",
       "community": 11,
+      "community_name": "site/script.js",
       "norm_label": "year"
     },
     {
@@ -811,6 +833,7 @@
       "_origin": "ast",
       "id": "docs_script",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "docs/script.js"
     },
     {
@@ -821,6 +844,7 @@
       "_origin": "ast",
       "id": "docs_script_demo",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "demo"
     },
     {
@@ -831,6 +855,7 @@
       "_origin": "ast",
       "id": "docs_script_democontent",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "democontent"
     },
     {
@@ -841,6 +866,7 @@
       "_origin": "ast",
       "id": "docs_script_header",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "header"
     },
     {
@@ -851,6 +877,7 @@
       "_origin": "ast",
       "id": "docs_script_year",
       "community": 14,
+      "community_name": "docs/script.js",
       "norm_label": "year"
     },
     {
@@ -861,6 +888,7 @@
       "_origin": "ast",
       "id": "package",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "package.json"
     },
     {
@@ -871,6 +899,7 @@
       "_origin": "ast",
       "id": "package_description",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "description"
     },
     {
@@ -881,6 +910,7 @@
       "_origin": "ast",
       "id": "package_devdependencies",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "devdependencies"
     },
     {
@@ -891,6 +921,7 @@
       "_origin": "ast",
       "id": "package_devdependencies_playwright_test",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "@playwright/test"
     },
     {
@@ -901,6 +932,7 @@
       "_origin": "ast",
       "id": "package_devdependencies_types_node",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "@types/node"
     },
     {
@@ -911,6 +943,7 @@
       "_origin": "ast",
       "id": "package_devdependencies_typescript",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "typescript"
     },
     {
@@ -921,6 +954,7 @@
       "_origin": "ast",
       "id": "package_engines",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "engines"
     },
     {
@@ -931,6 +965,7 @@
       "_origin": "ast",
       "id": "package_engines_node",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "node"
     },
     {
@@ -941,6 +976,7 @@
       "_origin": "ast",
       "id": "package_name",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "name"
     },
     {
@@ -951,6 +987,7 @@
       "_origin": "ast",
       "id": "package_private",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "private"
     },
     {
@@ -961,6 +998,7 @@
       "_origin": "ast",
       "id": "package_scripts",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "scripts"
     },
     {
@@ -971,6 +1009,7 @@
       "_origin": "ast",
       "id": "package_scripts_build",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "build"
     },
     {
@@ -981,6 +1020,7 @@
       "_origin": "ast",
       "id": "package_scripts_demo",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "demo"
     },
     {
@@ -991,6 +1031,7 @@
       "_origin": "ast",
       "id": "package_scripts_serve",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "serve"
     },
     {
@@ -1001,6 +1042,7 @@
       "_origin": "ast",
       "id": "package_scripts_serve_docs",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "serve:docs"
     },
     {
@@ -1011,6 +1053,7 @@
       "_origin": "ast",
       "id": "package_scripts_test",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "test"
     },
     {
@@ -1021,6 +1064,7 @@
       "_origin": "ast",
       "id": "package_scripts_test_core",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "test:core"
     },
     {
@@ -1031,6 +1075,7 @@
       "_origin": "ast",
       "id": "package_scripts_typecheck",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "typecheck"
     },
     {
@@ -1041,6 +1086,7 @@
       "_origin": "ast",
       "id": "package_version",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "version"
     },
     {
@@ -1051,6 +1097,7 @@
       "_origin": "ast",
       "id": "playwright_test",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "@playwright/test"
     },
     {
@@ -1061,6 +1108,7 @@
       "_origin": "ast",
       "id": "types_node",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "@types/node"
     },
     {
@@ -1071,7 +1119,52 @@
       "_origin": "ast",
       "id": "typescript",
       "community": 2,
+      "community_name": "scripts",
       "norm_label": "typescript"
+    },
+    {
+      "label": "pages.spec.js",
+      "file_type": "code",
+      "source_file": "tests/pages.spec.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_pages_spec",
+      "community": 20,
+      "community_name": "pages.spec.js",
+      "norm_label": "pages.spec.js"
+    },
+    {
+      "label": "{ test, expect }",
+      "file_type": "code",
+      "source_file": "tests/pages.spec.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_pages_spec_test_expect",
+      "community": 20,
+      "community_name": "pages.spec.js",
+      "norm_label": "{ test, expect }"
+    },
+    {
+      "label": "site.spec.js",
+      "file_type": "code",
+      "source_file": "tests/site.spec.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_site_spec",
+      "community": 21,
+      "community_name": "site.spec.js",
+      "norm_label": "site.spec.js"
+    },
+    {
+      "label": "{ test, expect }",
+      "file_type": "code",
+      "source_file": "tests/site.spec.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_site_spec_test_expect",
+      "community": 21,
+      "community_name": "site.spec.js",
+      "norm_label": "{ test, expect }"
     },
     {
       "label": "tsconfig.json",
@@ -1081,6 +1174,7 @@
       "_origin": "ast",
       "id": "tsconfig",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "tsconfig.json"
     },
     {
@@ -1091,6 +1185,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "compileroptions"
     },
     {
@@ -1101,6 +1196,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_esmoduleinterop",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "esmoduleinterop"
     },
     {
@@ -1111,6 +1207,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_forceconsistentcasinginfilenames",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "forceconsistentcasinginfilenames"
     },
     {
@@ -1121,6 +1218,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_module",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "module"
     },
     {
@@ -1131,6 +1229,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_moduleresolution",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "moduleresolution"
     },
     {
@@ -1141,6 +1240,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_outdir",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "outdir"
     },
     {
@@ -1151,6 +1251,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_rootdir",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "rootdir"
     },
     {
@@ -1161,6 +1262,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_skiplibcheck",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "skiplibcheck"
     },
     {
@@ -1171,6 +1273,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_strict",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "strict"
     },
     {
@@ -1181,6 +1284,7 @@
       "_origin": "ast",
       "id": "tsconfig_compileroptions_target",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "target"
     },
     {
@@ -1191,6 +1295,7 @@
       "_origin": "ast",
       "id": "tsconfig_exclude",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "exclude"
     },
     {
@@ -1201,6 +1306,7 @@
       "_origin": "ast",
       "id": "tsconfig_include",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "include"
     },
     {
@@ -1211,6 +1317,7 @@
       "_origin": "ast",
       "id": "ref_core_ts",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "core/**/*.ts"
     },
     {
@@ -1221,6 +1328,7 @@
       "_origin": "ast",
       "id": "ref_dist",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "dist"
     },
     {
@@ -1231,6 +1339,7 @@
       "_origin": "ast",
       "id": "ref_examples_ts",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "examples/**/*.ts"
     },
     {
@@ -1241,6 +1350,7 @@
       "_origin": "ast",
       "id": "ref_node_modules",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "node_modules"
     },
     {
@@ -1251,6 +1361,7 @@
       "_origin": "ast",
       "id": "ref_tests_ts",
       "community": 3,
+      "community_name": "compilerOptions",
       "norm_label": "tests/**/*.ts"
     },
     {
@@ -1261,6 +1372,7 @@
       "_origin": "ast",
       "id": "core_search",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "search.ts"
     },
     {
@@ -1271,6 +1383,7 @@
       "_origin": "ast",
       "id": "core_summary",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "summary.ts"
     },
     {
@@ -1281,6 +1394,7 @@
       "_origin": "ast",
       "id": "core_text",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "text.ts"
     },
     {
@@ -1291,6 +1405,7 @@
       "_origin": "ast",
       "id": "core_text_stop_words",
       "community": 6,
+      "community_name": "summary.ts",
       "norm_label": "stop_words"
     },
     {
@@ -1302,9 +1417,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_brand_progressive_reduction_symbol",
       "community": 1,
-      "norm_label": "progressive reduction from conversation noise to clear signal"
+      "norm_label": "progressive reduction from conversation noise to clear signal",
+      "_origin": "semantic",
+      "id": "brand_brand_progressive_reduction_symbol",
+      "community_name": "Product Status"
     },
     {
       "label": "Visible labeling of simulated WhatsApp demonstrations",
@@ -1315,9 +1432,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "contributing_simulated_demo_labeling",
       "community": 1,
-      "norm_label": "visible labeling of simulated whatsapp demonstrations"
+      "norm_label": "visible labeling of simulated whatsapp demonstrations",
+      "_origin": "semantic",
+      "id": "contributing_simulated_demo_labeling",
+      "community_name": "Product Status"
     },
     {
       "label": "Transparent roadmap",
@@ -1328,9 +1447,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_index_transparent_roadmap",
       "community": 1,
-      "norm_label": "transparent roadmap"
+      "norm_label": "transparent roadmap",
+      "_origin": "semantic",
+      "id": "docs_index_transparent_roadmap",
+      "community_name": "Product Status"
     },
     {
       "label": "Current private pilot capability boundary",
@@ -1341,9 +1462,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "product_status_current_pilot_boundary",
       "community": 1,
-      "norm_label": "current private pilot capability boundary"
+      "norm_label": "current private pilot capability boundary",
+      "_origin": "semantic",
+      "id": "product_status_current_pilot_boundary",
+      "community_name": "Product Status"
     },
     {
       "label": "In-development capabilities",
@@ -1354,9 +1477,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "product_status_in_development_capabilities",
       "community": 1,
-      "norm_label": "in-development capabilities"
+      "norm_label": "in-development capabilities",
+      "_origin": "semantic",
+      "id": "product_status_in_development_capabilities",
+      "community_name": "Product Status"
     },
     {
       "label": "Public core capability boundary",
@@ -1367,9 +1492,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "product_status_public_core_boundary",
       "community": 1,
-      "norm_label": "public core capability boundary"
+      "norm_label": "public core capability boundary",
+      "_origin": "semantic",
+      "id": "product_status_public_core_boundary",
+      "community_name": "Product Status"
     },
     {
       "label": "Group isolation, idempotency, explicit authorization, and server-only credentials",
@@ -1380,9 +1507,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "security_adapter_security_invariants",
       "community": 1,
-      "norm_label": "group isolation, idempotency, explicit authorization, and server-only credentials"
+      "norm_label": "group isolation, idempotency, explicit authorization, and server-only credentials",
+      "_origin": "semantic",
+      "id": "security_adapter_security_invariants",
+      "community_name": "Product Status"
     },
     {
       "label": "Manual pilot selection and activation",
@@ -1393,9 +1522,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_index_manual_pilot_selection",
       "community": 1,
-      "norm_label": "manual pilot selection and activation"
+      "norm_label": "manual pilot selection and activation",
+      "_origin": "semantic",
+      "id": "site_index_manual_pilot_selection",
+      "community_name": "Product Status"
     },
     {
       "label": "Identified sponsorship sustainability model",
@@ -1406,9 +1537,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_index_sponsored_sustainability_model",
       "community": 1,
-      "norm_label": "identified sponsorship sustainability model"
+      "norm_label": "identified sponsorship sustainability model",
+      "_origin": "semantic",
+      "id": "site_index_sponsored_sustainability_model",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma brand system",
@@ -1419,9 +1552,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_brand_system",
       "community": 1,
-      "norm_label": "resuma brand system"
+      "norm_label": "resuma brand system",
+      "_origin": "semantic",
+      "id": "brand_brand_system",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma contribution policy",
@@ -1432,9 +1567,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "contributing_contribution_policy",
       "community": 1,
-      "norm_label": "resuma contribution policy"
+      "norm_label": "resuma contribution policy",
+      "_origin": "semantic",
+      "id": "contributing_contribution_policy",
+      "community_name": "Product Status"
     },
     {
       "label": "Product Status",
@@ -1445,9 +1582,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "product_status_product_status",
       "community": 1,
-      "norm_label": "product status"
+      "norm_label": "product status",
+      "_origin": "semantic",
+      "id": "product_status_product_status",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma",
@@ -1458,9 +1597,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_resuma",
       "community": 1,
-      "norm_label": "resuma"
+      "norm_label": "resuma",
+      "_origin": "semantic",
+      "id": "readme_resuma",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma security policy",
@@ -1471,9 +1612,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "security_security_policy",
       "community": 1,
-      "norm_label": "resuma security policy"
+      "norm_label": "resuma security policy",
+      "_origin": "semantic",
+      "id": "security_security_policy",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma Brazilian Portuguese commercial site",
@@ -1484,9 +1627,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_index_commercial_site",
       "community": 1,
-      "norm_label": "resuma brazilian portuguese commercial site"
+      "norm_label": "resuma brazilian portuguese commercial site",
+      "_origin": "semantic",
+      "id": "site_index_commercial_site",
+      "community_name": "Product Status"
     },
     {
       "label": "Resuma trademark policy",
@@ -1497,9 +1642,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trademarks_resuma_trademarks",
       "community": 1,
-      "norm_label": "resuma trademark policy"
+      "norm_label": "resuma trademark policy",
+      "_origin": "semantic",
+      "id": "trademarks_resuma_trademarks",
+      "community_name": "Product Status"
     },
     {
       "label": "Evidence over promises",
@@ -1510,9 +1657,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_brand_evidence_over_promises",
       "community": 1,
-      "norm_label": "evidence over promises"
+      "norm_label": "evidence over promises",
+      "_origin": "semantic",
+      "id": "brand_brand_evidence_over_promises",
+      "community_name": "Product Status"
     },
     {
       "label": "Roadmap features must not be presented as released",
@@ -1523,9 +1672,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_brand_roadmap_claim_boundary",
       "community": 1,
-      "norm_label": "roadmap features must not be presented as released"
+      "norm_label": "roadmap features must not be presented as released",
+      "_origin": "semantic",
+      "id": "brand_brand_roadmap_claim_boundary",
+      "community_name": "Product Status"
     },
     {
       "label": "Public claim alignment",
@@ -1536,9 +1687,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "contributing_public_claim_alignment",
       "community": 1,
-      "norm_label": "public claim alignment"
+      "norm_label": "public claim alignment",
+      "_origin": "semantic",
+      "id": "contributing_public_claim_alignment",
+      "community_name": "Product Status"
     },
     {
       "label": "Sensitive and organization-specific data exclusion",
@@ -1549,9 +1702,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "contributing_sensitive_data_exclusion",
       "community": 1,
-      "norm_label": "sensitive and organization-specific data exclusion"
+      "norm_label": "sensitive and organization-specific data exclusion",
+      "_origin": "semantic",
+      "id": "contributing_sensitive_data_exclusion",
+      "community_name": "Product Status"
     },
     {
       "label": "Confidence over invention",
@@ -1562,9 +1717,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_index_confidence_over_invention",
       "community": 1,
-      "norm_label": "confidence over invention"
+      "norm_label": "confidence over invention",
+      "_origin": "semantic",
+      "id": "docs_index_confidence_over_invention",
+      "community_name": "Product Status"
     },
     {
       "label": "Public source of truth for product claims",
@@ -1575,9 +1732,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "product_status_public_claim_source_of_truth",
       "community": 1,
-      "norm_label": "public source of truth for product claims"
+      "norm_label": "public source of truth for product claims",
+      "_origin": "semantic",
+      "id": "product_status_public_claim_source_of_truth",
+      "community_name": "Product Status"
     },
     {
       "label": "Private vulnerability reporting",
@@ -1588,9 +1747,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "security_private_vulnerability_reporting",
       "community": 1,
-      "norm_label": "private vulnerability reporting"
+      "norm_label": "private vulnerability reporting",
+      "_origin": "semantic",
+      "id": "security_private_vulnerability_reporting",
+      "community_name": "Product Status"
     },
     {
       "label": "Purpose-limited access to authorized groups",
@@ -1601,9 +1762,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_index_authorized_group_privacy",
       "community": 1,
-      "norm_label": "purpose-limited access to authorized groups"
+      "norm_label": "purpose-limited access to authorized groups",
+      "_origin": "semantic",
+      "id": "site_index_authorized_group_privacy",
+      "community_name": "Product Status"
     },
     {
       "label": "Independent identity for modified distributions",
@@ -1614,9 +1777,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trademarks_modified_distribution_identity",
       "community": 1,
-      "norm_label": "independent identity for modified distributions"
+      "norm_label": "independent identity for modified distributions",
+      "_origin": "semantic",
+      "id": "trademarks_modified_distribution_identity",
+      "community_name": "Product Status"
     },
     {
       "label": "Charcoal rounded background",
@@ -1627,9 +1792,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_charcoal_background",
       "community": 12,
-      "norm_label": "charcoal rounded background"
+      "norm_label": "charcoal rounded background",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_charcoal_background",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "Resuma dark lockup logo",
@@ -1640,9 +1807,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_resuma_logo",
       "community": 12,
-      "norm_label": "resuma dark lockup logo"
+      "norm_label": "resuma dark lockup logo",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_resuma_logo",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "resuma wordmark",
@@ -1653,9 +1822,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_resuma_wordmark",
       "community": 12,
-      "norm_label": "resuma wordmark"
+      "norm_label": "resuma wordmark",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_resuma_wordmark",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "Signal lime",
@@ -1666,9 +1837,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_signal_lime",
       "community": 12,
-      "norm_label": "signal lime"
+      "norm_label": "signal lime",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_signal_lime",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "Signal mark with three descending rounded bars and a circle",
@@ -1679,9 +1852,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_signal_mark",
       "community": 12,
-      "norm_label": "signal mark with three descending rounded bars and a circle"
+      "norm_label": "signal mark with three descending rounded bars and a circle",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_signal_mark",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "Warm ivory",
@@ -1692,9 +1867,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_dark_warm_ivory",
       "community": 12,
-      "norm_label": "warm ivory"
+      "norm_label": "warm ivory",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_dark_warm_ivory",
+      "community_name": "Resuma dark lockup logo"
     },
     {
       "label": "Charcoal",
@@ -1705,9 +1882,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_charcoal",
       "community": 13,
-      "norm_label": "charcoal"
+      "norm_label": "charcoal",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_charcoal",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "Resuma light lockup logo",
@@ -1718,9 +1897,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_resuma_logo",
       "community": 13,
-      "norm_label": "resuma light lockup logo"
+      "norm_label": "resuma light lockup logo",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_resuma_logo",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "resuma wordmark",
@@ -1731,9 +1912,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_resuma_wordmark",
       "community": 13,
-      "norm_label": "resuma wordmark"
+      "norm_label": "resuma wordmark",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_resuma_wordmark",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "Signal lime",
@@ -1744,9 +1927,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_signal_lime",
       "community": 13,
-      "norm_label": "signal lime"
+      "norm_label": "signal lime",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_signal_lime",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "Signal mark with three descending rounded bars and a circle",
@@ -1757,9 +1942,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_signal_mark",
       "community": 13,
-      "norm_label": "signal mark with three descending rounded bars and a circle"
+      "norm_label": "signal mark with three descending rounded bars and a circle",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_signal_mark",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "Warm ivory rounded background",
@@ -1770,9 +1957,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_lockup_light_warm_ivory_background",
       "community": 13,
-      "norm_label": "warm ivory rounded background"
+      "norm_label": "warm ivory rounded background",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_lockup_light_warm_ivory_background",
+      "community_name": "Resuma light lockup logo"
     },
     {
       "label": "Accessible Image Metadata",
@@ -1783,9 +1972,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_accessible_image_metadata",
       "community": 15,
-      "norm_label": "accessible image metadata"
+      "norm_label": "accessible image metadata",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_accessible_image_metadata",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Three Progressively Shorter Lines",
@@ -1796,9 +1987,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_progressively_shorter_lines",
       "community": 15,
-      "norm_label": "three progressively shorter lines"
+      "norm_label": "three progressively shorter lines",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_progressively_shorter_lines",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Resuma Mark",
@@ -1809,9 +2002,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_resuma_mark",
       "community": 15,
-      "norm_label": "resuma mark"
+      "norm_label": "resuma mark",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_resuma_mark",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Signal Dot",
@@ -1822,9 +2017,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_signal_dot",
       "community": 15,
-      "norm_label": "signal dot"
+      "norm_label": "signal dot",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_signal_dot",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Signal Lime #B7FF4A",
@@ -1835,9 +2032,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_signal_lime",
       "community": 15,
-      "norm_label": "signal lime #b7ff4a"
+      "norm_label": "signal lime #b7ff4a",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_signal_lime",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Transformation into a Signal",
@@ -1848,9 +2047,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_transformation_into_signal",
       "community": 15,
-      "norm_label": "transformation into a signal"
+      "norm_label": "transformation into a signal",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_transformation_into_signal",
+      "community_name": "Resuma Mark"
     },
     {
       "label": "Signal",
@@ -1861,9 +2062,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_resuma_mark_signal",
       "community": 16,
-      "norm_label": "signal"
+      "norm_label": "signal",
+      "_origin": "semantic",
+      "id": "docs_assets_resuma_mark_signal",
+      "community_name": "Resuma mark"
     },
     {
       "label": "Three progressively smaller lines",
@@ -1874,9 +2077,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_resuma_mark_progressive_lines",
       "community": 16,
-      "norm_label": "three progressively smaller lines"
+      "norm_label": "three progressively smaller lines",
+      "_origin": "semantic",
+      "id": "docs_assets_resuma_mark_progressive_lines",
+      "community_name": "Resuma mark"
     },
     {
       "label": "Resuma mark",
@@ -1887,9 +2092,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_resuma_mark_resuma_mark",
       "community": 16,
-      "norm_label": "resuma mark"
+      "norm_label": "resuma mark",
+      "_origin": "semantic",
+      "id": "docs_assets_resuma_mark_resuma_mark",
+      "community_name": "Resuma mark"
     },
     {
       "label": "Signal lime",
@@ -1900,9 +2107,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_resuma_mark_signal_lime",
       "community": 16,
-      "norm_label": "signal lime"
+      "norm_label": "signal lime",
+      "_origin": "semantic",
+      "id": "docs_assets_resuma_mark_signal_lime",
+      "community_name": "Resuma mark"
     },
     {
       "label": "Circular signal point",
@@ -1913,9 +2122,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_resuma_mark_signal_point",
       "community": 16,
-      "norm_label": "circular signal point"
+      "norm_label": "circular signal point",
+      "_origin": "semantic",
+      "id": "docs_assets_resuma_mark_signal_point",
+      "community_name": "Resuma mark"
     },
     {
       "label": "Abstract signal",
@@ -1926,9 +2137,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_dark_signal",
       "community": 17,
-      "norm_label": "abstract signal"
+      "norm_label": "abstract signal",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_dark_signal",
+      "community_name": "Resuma dark mark"
     },
     {
       "label": "Charcoal",
@@ -1939,9 +2152,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_dark_charcoal",
       "community": 17,
-      "norm_label": "charcoal"
+      "norm_label": "charcoal",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_dark_charcoal",
+      "community_name": "Resuma dark mark"
     },
     {
       "label": "Circular point",
@@ -1952,9 +2167,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_dark_circular_point",
       "community": 17,
-      "norm_label": "circular point"
+      "norm_label": "circular point",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_dark_circular_point",
+      "community_name": "Resuma dark mark"
     },
     {
       "label": "Three progressively shorter rounded bars",
@@ -1965,9 +2182,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_dark_progressive_bars",
       "community": 17,
-      "norm_label": "three progressively shorter rounded bars"
+      "norm_label": "three progressively shorter rounded bars",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_dark_progressive_bars",
+      "community_name": "Resuma dark mark"
     },
     {
       "label": "Resuma dark mark",
@@ -1978,9 +2197,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "site_assets_resuma_mark_dark_resuma_mark",
       "community": 17,
-      "norm_label": "resuma dark mark"
+      "norm_label": "resuma dark mark",
+      "_origin": "semantic",
+      "id": "site_assets_resuma_mark_dark_resuma_mark",
+      "community_name": "Resuma dark mark"
     },
     {
       "label": "Conversation signal",
@@ -1991,9 +2212,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_mark_conversation_signal",
       "community": 18,
-      "norm_label": "conversation signal"
+      "norm_label": "conversation signal",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_mark_conversation_signal",
+      "community_name": "Three progressively shorter conversation lines"
     },
     {
       "label": "Three progressively shorter conversation lines",
@@ -2004,9 +2227,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_mark_conversation_lines",
       "community": 18,
-      "norm_label": "three progressively shorter conversation lines"
+      "norm_label": "three progressively shorter conversation lines",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_mark_conversation_lines",
+      "community_name": "Three progressively shorter conversation lines"
     },
     {
       "label": "Resuma mark",
@@ -2017,9 +2242,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_mark_resuma_mark",
       "community": 18,
-      "norm_label": "resuma mark"
+      "norm_label": "resuma mark",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_mark_resuma_mark",
+      "community_name": "Three progressively shorter conversation lines"
     },
     {
       "label": "Signal point",
@@ -2030,9 +2257,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_logo_resuma_mark_signal_point",
       "community": 18,
-      "norm_label": "signal point"
+      "norm_label": "signal point",
+      "_origin": "semantic",
+      "id": "brand_logo_resuma_mark_signal_point",
+      "community_name": "Three progressively shorter conversation lines"
     },
     {
       "label": "Validate open-source core and Pages workflow",
@@ -2043,9 +2272,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "github_workflows_ci_validation_workflow",
       "community": 19,
-      "norm_label": "validate open-source core and pages workflow"
+      "norm_label": "validate open-source core and pages workflow",
+      "_origin": "semantic",
+      "id": "github_workflows_ci_validation_workflow",
+      "community_name": "Core and browser test validation"
     },
     {
       "label": "Core and browser test validation",
@@ -2056,9 +2287,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "github_workflows_ci_core_browser_tests",
       "community": 19,
-      "norm_label": "core and browser test validation"
+      "norm_label": "core and browser test validation",
+      "_origin": "semantic",
+      "id": "github_workflows_ci_core_browser_tests",
+      "community_name": "Core and browser test validation"
     },
     {
       "label": "Authorized WhatsApp Group Conversations",
@@ -2069,9 +2302,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_authorized_whatsapp_group_conversations",
       "community": 4,
-      "norm_label": "authorized whatsapp group conversations"
+      "norm_label": "authorized whatsapp group conversations",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_authorized_whatsapp_group_conversations",
+      "community_name": "Resuma"
     },
     {
       "label": "Close Summaries",
@@ -2082,9 +2317,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_close_summaries",
       "community": 4,
-      "norm_label": "close summaries"
+      "norm_label": "close summaries",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_close_summaries",
+      "community_name": "Resuma"
     },
     {
       "label": "Community Conversation Compressed into Signal",
@@ -2095,9 +2332,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_community_conversation_compressed_into_signal",
       "community": 4,
-      "norm_label": "community conversation compressed into signal"
+      "norm_label": "community conversation compressed into signal",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_community_conversation_compressed_into_signal",
+      "community_name": "Resuma"
     },
     {
       "label": "Today, in Three Points",
@@ -2108,9 +2347,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_daily_three_point_signal",
       "community": 4,
-      "norm_label": "today, in three points"
+      "norm_label": "today, in three points",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_daily_three_point_signal",
+      "community_name": "Resuma"
     },
     {
       "label": "View on GitHub",
@@ -2121,9 +2362,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_github_repository",
       "community": 4,
-      "norm_label": "view on github"
+      "norm_label": "view on github",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_github_repository",
+      "community_name": "Resuma"
     },
     {
       "label": "Manually Managed Pilot",
@@ -2134,9 +2377,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_manually_managed_pilot",
       "community": 4,
-      "norm_label": "manually managed pilot"
+      "norm_label": "manually managed pilot",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_manually_managed_pilot",
+      "community_name": "Resuma"
     },
     {
       "label": "No App Switching for Members",
@@ -2147,9 +2392,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_no_app_switching",
       "community": 4,
-      "norm_label": "no app switching for members"
+      "norm_label": "no app switching for members",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_no_app_switching",
+      "community_name": "Resuma"
     },
     {
       "label": "126 Messages Organized",
@@ -2160,9 +2407,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_organized_messages",
       "community": 4,
-      "norm_label": "126 messages organized"
+      "norm_label": "126 messages organized",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_organized_messages",
+      "community_name": "Resuma"
     },
     {
       "label": "Two Useful Links Preserved",
@@ -2173,9 +2422,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_preserved_links",
       "community": 4,
-      "norm_label": "two useful links preserved"
+      "norm_label": "two useful links preserved",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_preserved_links",
+      "community_name": "Resuma"
     },
     {
       "label": "Available, Architecture and Roadmap",
@@ -2186,9 +2437,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_product_documentation",
       "community": 4,
-      "norm_label": "available, architecture and roadmap"
+      "norm_label": "available, architecture and roadmap",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_product_documentation",
+      "community_name": "Resuma"
     },
     {
       "label": "Registration Closes Tomorrow",
@@ -2199,9 +2452,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_registration_deadline",
       "community": 4,
-      "norm_label": "registration closes tomorrow"
+      "norm_label": "registration closes tomorrow",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_registration_deadline",
+      "community_name": "Resuma"
     },
     {
       "label": "Resuma",
@@ -2212,9 +2467,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_resuma",
       "community": 4,
-      "norm_label": "resuma"
+      "norm_label": "resuma",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_resuma",
+      "community_name": "Resuma"
     },
     {
       "label": "Searchable Memory",
@@ -2225,9 +2482,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_searchable_memory",
       "community": 4,
-      "norm_label": "searchable memory"
+      "norm_label": "searchable memory",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_searchable_memory",
+      "community_name": "Resuma"
     },
     {
       "label": "Source-Backed Answers",
@@ -2238,9 +2497,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_source_backed_answers",
       "community": 4,
-      "norm_label": "source-backed answers"
+      "norm_label": "source-backed answers",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_source_backed_answers",
+      "community_name": "Resuma"
     },
     {
       "label": "Workshop Confirmed for Tuesday at 7 PM",
@@ -2251,9 +2512,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_assets_og_resuma_workshop_confirmation",
       "community": 4,
-      "norm_label": "workshop confirmed for tuesday at 7 pm"
+      "norm_label": "workshop confirmed for tuesday at 7 pm",
+      "_origin": "semantic",
+      "id": "docs_assets_og_resuma_workshop_confirmation",
+      "community_name": "Resuma"
     },
     {
       "label": "Charcoal #0C1110",
@@ -2264,9 +2527,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_charcoal",
       "community": 5,
-      "norm_label": "charcoal #0c1110"
+      "norm_label": "charcoal #0c1110",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_charcoal",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Resumo, Insights and Sinais",
@@ -2277,9 +2542,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_content_categories",
       "community": 5,
-      "norm_label": "resumo, insights and sinais"
+      "norm_label": "resumo, insights and sinais",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_content_categories",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Graphite Color Scale",
@@ -2290,9 +2557,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_graphite_palette",
       "community": 5,
-      "norm_label": "graphite color scale"
+      "norm_label": "graphite color scale",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_graphite_palette",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Information Convergence Motif",
@@ -2303,9 +2572,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_information_convergence",
       "community": 5,
-      "norm_label": "information convergence motif"
+      "norm_label": "information convergence motif",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_information_convergence",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Inter Primary Typeface",
@@ -2316,9 +2587,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_inter",
       "community": 5,
-      "norm_label": "inter primary typeface"
+      "norm_label": "inter primary typeface",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_inter",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Ivory #F3F1E8",
@@ -2329,9 +2602,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_ivory",
       "community": 5,
-      "norm_label": "ivory #f3f1e8"
+      "norm_label": "ivory #f3f1e8",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_ivory",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "JetBrains Mono Secondary Typeface",
@@ -2342,9 +2617,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_jetbrains_mono",
       "community": 5,
-      "norm_label": "jetbrains mono secondary typeface"
+      "norm_label": "jetbrains mono secondary typeface",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_jetbrains_mono",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Resuma Product Interface",
@@ -2355,9 +2632,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_product_interface",
       "community": 5,
-      "norm_label": "resuma product interface"
+      "norm_label": "resuma product interface",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_product_interface",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Resuma Brand System",
@@ -2368,9 +2647,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "community": 5,
-      "norm_label": "resuma brand system"
+      "norm_label": "resuma brand system",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "resuma.ia.br",
@@ -2381,9 +2662,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_resuma_domain",
       "community": 5,
-      "norm_label": "resuma.ia.br"
+      "norm_label": "resuma.ia.br",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_resuma_domain",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Resuma Logo",
@@ -2394,9 +2677,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_resuma_logo",
       "community": 5,
-      "norm_label": "resuma logo"
+      "norm_label": "resuma logo",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_resuma_logo",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Signal Lime #B7FF4A",
@@ -2407,9 +2692,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_signal_lime",
       "community": 5,
-      "norm_label": "signal lime #b7ff4a"
+      "norm_label": "signal lime #b7ff4a",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_signal_lime",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "O grupo fala. O Resuma entrega o que importa.",
@@ -2420,9 +2707,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "brand_concepts_resuma_brand_board_v1_tagline",
       "community": 5,
-      "norm_label": "o grupo fala. o resuma entrega o que importa."
+      "norm_label": "o grupo fala. o resuma entrega o que importa.",
+      "_origin": "semantic",
+      "id": "brand_concepts_resuma_brand_board_v1_tagline",
+      "community_name": "Resuma Brand System"
     },
     {
       "label": "Authorized group conversations",
@@ -2433,9 +2722,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_authorized_group_conversations",
       "community": 7,
-      "norm_label": "authorized group conversations"
+      "norm_label": "authorized group conversations",
+      "_origin": "semantic",
+      "id": "readme_authorized_group_conversations",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Concise summaries",
@@ -2446,9 +2737,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_concise_summaries",
       "community": 7,
-      "norm_label": "concise summaries"
+      "norm_label": "concise summaries",
+      "_origin": "semantic",
+      "id": "readme_concise_summaries",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Configured campaigns",
@@ -2459,9 +2752,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_configured_campaigns",
       "community": 7,
-      "norm_label": "configured campaigns"
+      "norm_label": "configured campaigns",
+      "_origin": "semantic",
+      "id": "readme_configured_campaigns",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Participant join and leave events",
@@ -2472,9 +2767,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_group_events",
       "community": 7,
-      "norm_label": "participant join and leave events"
+      "norm_label": "participant join and leave events",
+      "_origin": "semantic",
+      "id": "readme_group_events",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Organization-specific private pilot",
@@ -2485,9 +2782,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_private_pilot",
       "community": 7,
-      "norm_label": "organization-specific private pilot"
+      "norm_label": "organization-specific private pilot",
+      "_origin": "semantic",
+      "id": "readme_private_pilot",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Provider-neutral deterministic open-source core",
@@ -2498,9 +2797,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_provider_neutral_core",
       "community": 7,
-      "norm_label": "provider-neutral deterministic open-source core"
+      "norm_label": "provider-neutral deterministic open-source core",
+      "_origin": "semantic",
+      "id": "readme_provider_neutral_core",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Sourced !pergunta search",
@@ -2511,9 +2812,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_sourced_question_search",
       "community": 7,
-      "norm_label": "sourced !pergunta search"
+      "norm_label": "sourced !pergunta search",
+      "_origin": "semantic",
+      "id": "readme_sourced_question_search",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Open at the core, private at the edges",
@@ -2524,9 +2827,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_index_open_core_private_edges",
       "community": 7,
-      "norm_label": "open at the core, private at the edges"
+      "norm_label": "open at the core, private at the edges",
+      "_origin": "semantic",
+      "id": "docs_index_open_core_private_edges",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Explicit connectivity and storage adapter boundaries",
@@ -2537,9 +2842,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "readme_explicit_adapter_boundaries",
       "community": 7,
-      "norm_label": "explicit connectivity and storage adapter boundaries"
+      "norm_label": "explicit connectivity and storage adapter boundaries",
+      "_origin": "semantic",
+      "id": "readme_explicit_adapter_boundaries",
+      "community_name": "Provider-neutral deterministic open-source core"
     },
     {
       "label": "Free pilot for communities",
@@ -2550,9 +2857,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_free_community_pilot",
       "community": 8,
-      "norm_label": "free pilot for communities"
+      "norm_label": "free pilot for communities",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_free_community_pilot",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Use in a real community",
@@ -2563,9 +2872,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_real_community_use",
       "community": 8,
-      "norm_label": "use in a real community"
+      "norm_label": "use in a real community",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_real_community_use",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Conversation compressed into useful signal",
@@ -2576,9 +2887,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_signal_compression",
       "community": 8,
-      "norm_label": "conversation compressed into useful signal"
+      "norm_label": "conversation compressed into useful signal",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_signal_compression",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Concise summaries, searchable memory, and sourced answers",
@@ -2589,9 +2902,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_sourced_community_memory",
       "community": 8,
-      "norm_label": "concise summaries, searchable memory, and sourced answers"
+      "norm_label": "concise summaries, searchable memory, and sourced answers",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_sourced_community_memory",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Resuma commercial website hero",
@@ -2602,9 +2917,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_commercial_hero",
       "community": 8,
-      "norm_label": "resuma commercial website hero"
+      "norm_label": "resuma commercial website hero",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_commercial_hero",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Resumo do dia summary card",
@@ -2615,9 +2932,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_daily_summary",
       "community": 8,
-      "norm_label": "resumo do dia summary card"
+      "norm_label": "resumo do dia summary card",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_daily_summary",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "WhatsApp group conversation fragments",
@@ -2628,9 +2947,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_group_conversation",
       "community": 8,
-      "norm_label": "whatsapp group conversation fragments"
+      "norm_label": "whatsapp group conversation fragments",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_group_conversation",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Quero testar gratuitamente call to action",
@@ -2641,9 +2962,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_pilot_call_to_action",
       "community": 8,
-      "norm_label": "quero testar gratuitamente call to action"
+      "norm_label": "quero testar gratuitamente call to action",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_pilot_call_to_action",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "Resuma brand identity",
@@ -2654,9 +2977,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "media_resuma_hero_resuma_brand",
       "community": 8,
-      "norm_label": "resuma brand identity"
+      "norm_label": "resuma brand identity",
+      "_origin": "semantic",
+      "id": "media_resuma_hero_resuma_brand",
+      "community_name": "Resuma commercial website hero"
     },
     {
       "label": "CommunityStore port",
@@ -2667,9 +2992,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_community_store_port",
       "community": 9,
-      "norm_label": "communitystore port"
+      "norm_label": "communitystore port",
+      "_origin": "semantic",
+      "id": "docs_install_community_store_port",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "MessageAdapter port",
@@ -2680,9 +3007,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_message_adapter_port",
       "community": 9,
-      "norm_label": "messageadapter port"
+      "norm_label": "messageadapter port",
+      "_origin": "semantic",
+      "id": "docs_install_message_adapter_port",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "ResumaEngine integration flow",
@@ -2693,9 +3022,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_resuma_engine_integration",
       "community": 9,
-      "norm_label": "resumaengine integration flow"
+      "norm_label": "resumaengine integration flow",
+      "_origin": "semantic",
+      "id": "docs_install_resuma_engine_integration",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "Resuma GitHub Pages public demo",
@@ -2706,9 +3037,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_index_public_demo",
       "community": 9,
-      "norm_label": "resuma github pages public demo"
+      "norm_label": "resuma github pages public demo",
+      "_origin": "semantic",
+      "id": "docs_index_public_demo",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "Install Resuma Core",
@@ -2719,9 +3052,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_installation_guide",
       "community": 9,
-      "norm_label": "install resuma core"
+      "norm_label": "install resuma core",
+      "_origin": "semantic",
+      "id": "docs_install_installation_guide",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "Public crawl policy and sitemap declaration",
@@ -2732,9 +3067,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_robots_public_crawl_policy",
       "community": 9,
-      "norm_label": "public crawl policy and sitemap declaration"
+      "norm_label": "public crawl policy and sitemap declaration",
+      "_origin": "semantic",
+      "id": "docs_robots_public_crawl_policy",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "InMemoryCommunityStore is limited to tests and local demos",
@@ -2745,9 +3082,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_in_memory_store_limitation",
       "community": 9,
-      "norm_label": "inmemorycommunitystore is limited to tests and local demos"
+      "norm_label": "inmemorycommunitystore is limited to tests and local demos",
+      "_origin": "semantic",
+      "id": "docs_install_in_memory_store_limitation",
+      "community_name": "Install Resuma Core"
     },
     {
       "label": "Production safety boundaries",
@@ -2758,39 +3097,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "docs_install_production_safety_boundaries",
       "community": 9,
-      "norm_label": "production safety boundaries"
-    },
-    {
-      "label": "node:assert/strict",
-      "file_type": "code",
-      "source_file": "tests/core.test.ts",
-      "source_location": "L1",
-      "external": true,
-      "id": "ref_node_assert_strict",
-      "community": 0,
-      "norm_label": "node:assert/strict"
-    },
-    {
-      "label": "node:test",
-      "file_type": "code",
-      "source_file": "tests/core.test.ts",
-      "source_location": "L2",
-      "external": true,
-      "id": "ref_node_test",
-      "community": 0,
-      "norm_label": "node:test"
-    },
-    {
-      "label": "@playwright/test",
-      "file_type": "code",
-      "source_file": "playwright.config.js",
-      "source_location": "L1",
-      "external": true,
-      "id": "ref_playwright_test",
-      "community": 10,
-      "norm_label": "@playwright/test"
+      "norm_label": "production safety boundaries",
+      "_origin": "semantic",
+      "id": "docs_install_production_safety_boundaries",
+      "community_name": "Install Resuma Core"
     }
   ],
   "links": [
@@ -3806,72 +4117,12 @@
       "relation": "imports_from",
       "context": "import",
       "confidence": "EXTRACTED",
-      "source_file": "playwright.config.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "playwright_config",
-      "target": "ref_playwright_test",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/core.test.ts",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_core_test",
-      "target": "ref_node_assert_strict",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/core.test.ts",
-      "source_location": "L2",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_core_test",
-      "target": "ref_node_test",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
       "source_file": "tests/core.test.ts",
       "source_location": "L3",
       "weight": 1.0,
       "_origin": "ast",
       "source": "tests_core_test",
       "target": "core_index",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/pages.spec.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_pages_spec",
-      "target": "ref_playwright_test",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/site.spec.js",
-      "source_location": "L1",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_site_spec",
-      "target": "ref_playwright_test",
       "confidence_score": 1.0
     },
     {
@@ -5209,6 +5460,7 @@
       "source_file": "brand/logo/resuma-lockup-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_dark_resuma_logo",
       "target": "brand_logo_resuma_lockup_dark_charcoal_background"
     },
@@ -5219,6 +5471,7 @@
       "source_file": "brand/logo/resuma-lockup-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_dark_resuma_wordmark",
       "target": "brand_logo_resuma_lockup_dark_warm_ivory"
     },
@@ -5229,6 +5482,7 @@
       "source_file": "brand/logo/resuma-lockup-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_dark_signal_mark",
       "target": "brand_logo_resuma_lockup_dark_signal_lime"
     },
@@ -5239,6 +5493,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_resuma_logo",
       "target": "brand_logo_resuma_lockup_light_warm_ivory_background"
     },
@@ -5249,6 +5504,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_resuma_wordmark",
       "target": "brand_logo_resuma_lockup_light_charcoal"
     },
@@ -5259,6 +5515,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_signal_mark",
       "target": "brand_logo_resuma_lockup_light_charcoal"
     },
@@ -5269,6 +5526,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_signal_mark",
       "target": "brand_logo_resuma_lockup_light_signal_lime"
     },
@@ -5279,6 +5537,7 @@
       "source_file": "CONTRIBUTING.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_simulated_demo_labeling",
       "target": "contributing_contribution_policy"
     },
@@ -5289,6 +5548,7 @@
       "source_file": "docs/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_resuma_mark_progressive_lines",
       "target": "docs_assets_resuma_mark_signal"
     },
@@ -5299,6 +5559,7 @@
       "source_file": "docs/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_resuma_mark_resuma_mark",
       "target": "docs_assets_resuma_mark_signal_lime"
     },
@@ -5309,6 +5570,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_free_community_pilot",
       "target": "media_resuma_hero_real_community_use"
     },
@@ -5319,6 +5581,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_pilot_call_to_action",
       "target": "media_resuma_hero_free_community_pilot"
     },
@@ -5329,6 +5592,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_signal_compression",
       "target": "media_resuma_hero_daily_summary"
     },
@@ -5339,6 +5603,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_private_pilot",
       "target": "readme_provider_neutral_core"
     },
@@ -5349,6 +5614,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "readme_provider_neutral_core"
     },
@@ -5359,6 +5625,7 @@
       "source_file": "site/assets/resuma-mark-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_dark_resuma_mark",
       "target": "site_assets_resuma_mark_dark_charcoal"
     },
@@ -5369,6 +5636,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_progressively_shorter_lines",
       "target": "site_assets_resuma_mark_transformation_into_signal"
     },
@@ -5379,6 +5647,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_signal_dot",
       "target": "site_assets_resuma_mark_transformation_into_signal"
     },
@@ -5389,6 +5658,7 @@
       "source_file": ".github/workflows/ci.yml",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "github_workflows_ci_validation_workflow",
       "target": "github_workflows_ci_core_browser_tests"
     },
@@ -5399,6 +5669,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_provider_neutral_core",
       "target": "readme_concise_summaries"
     },
@@ -5409,6 +5680,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_provider_neutral_core",
       "target": "readme_configured_campaigns"
     },
@@ -5419,6 +5691,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_provider_neutral_core",
       "target": "readme_group_events"
     },
@@ -5429,6 +5702,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_provider_neutral_core",
       "target": "readme_sourced_question_search"
     },
@@ -5439,6 +5713,7 @@
       "source_file": "brand/BRAND.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_brand_evidence_over_promises",
       "target": "brand_brand_system"
     },
@@ -5449,6 +5724,7 @@
       "source_file": "brand/BRAND.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_brand_roadmap_claim_boundary",
       "target": "brand_brand_system"
     },
@@ -5459,6 +5735,7 @@
       "source_file": "CONTRIBUTING.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_public_claim_alignment",
       "target": "contributing_contribution_policy"
     },
@@ -5469,6 +5746,7 @@
       "source_file": "CONTRIBUTING.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_sensitive_data_exclusion",
       "target": "contributing_contribution_policy"
     },
@@ -5479,6 +5757,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_in_memory_store_limitation",
       "target": "docs_install_community_store_port"
     },
@@ -5489,6 +5768,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_production_safety_boundaries",
       "target": "docs_install_resuma_engine_integration"
     },
@@ -5499,6 +5779,7 @@
       "source_file": "product/STATUS.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "product_status_public_claim_source_of_truth",
       "target": "product_status_product_status"
     },
@@ -5509,6 +5790,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_explicit_adapter_boundaries",
       "target": "readme_provider_neutral_core"
     },
@@ -5519,6 +5801,7 @@
       "source_file": "SECURITY.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "security_private_vulnerability_reporting",
       "target": "security_security_policy"
     },
@@ -5529,6 +5812,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_index_authorized_group_privacy",
       "target": "site_index_commercial_site"
     },
@@ -5539,6 +5823,7 @@
       "source_file": "TRADEMARKS.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "trademarks_modified_distribution_identity",
       "target": "trademarks_resuma_trademarks"
     },
@@ -5549,6 +5834,7 @@
       "source_file": "brand/BRAND.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_brand_system",
       "target": "brand_brand_progressive_reduction_symbol"
     },
@@ -5559,6 +5845,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_product_interface",
       "target": "brand_concepts_resuma_brand_board_v1_content_categories"
     },
@@ -5569,6 +5856,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_charcoal"
     },
@@ -5579,6 +5867,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_graphite_palette"
     },
@@ -5589,6 +5878,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_inter"
     },
@@ -5599,6 +5889,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_ivory"
     },
@@ -5609,6 +5900,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_jetbrains_mono"
     },
@@ -5619,6 +5911,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_product_interface"
     },
@@ -5629,6 +5922,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_resuma_domain"
     },
@@ -5639,6 +5933,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_resuma_logo"
     },
@@ -5649,6 +5944,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_signal_lime"
     },
@@ -5659,6 +5955,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_resuma_brand_system",
       "target": "brand_concepts_resuma_brand_board_v1_tagline"
     },
@@ -5669,6 +5966,7 @@
       "source_file": "brand/logo/resuma-lockup-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_dark_resuma_logo",
       "target": "brand_logo_resuma_lockup_dark_resuma_wordmark"
     },
@@ -5679,6 +5977,7 @@
       "source_file": "brand/logo/resuma-lockup-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_dark_resuma_logo",
       "target": "brand_logo_resuma_lockup_dark_signal_mark"
     },
@@ -5689,6 +5988,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_resuma_logo",
       "target": "brand_logo_resuma_lockup_light_resuma_wordmark"
     },
@@ -5699,6 +5999,7 @@
       "source_file": "brand/logo/resuma-lockup-light.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_lockup_light_resuma_logo",
       "target": "brand_logo_resuma_lockup_light_signal_mark"
     },
@@ -5709,6 +6010,7 @@
       "source_file": "brand/logo/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_mark_resuma_mark",
       "target": "brand_logo_resuma_mark_conversation_lines"
     },
@@ -5719,6 +6021,7 @@
       "source_file": "brand/logo/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_mark_resuma_mark",
       "target": "brand_logo_resuma_mark_signal_point"
     },
@@ -5729,6 +6032,7 @@
       "source_file": "CONTRIBUTING.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_contribution_policy",
       "target": "product_status_product_status"
     },
@@ -5739,6 +6043,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_daily_three_point_signal",
       "target": "docs_assets_og_resuma_organized_messages"
     },
@@ -5749,6 +6054,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_daily_three_point_signal",
       "target": "docs_assets_og_resuma_preserved_links"
     },
@@ -5759,6 +6065,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_daily_three_point_signal",
       "target": "docs_assets_og_resuma_registration_deadline"
     },
@@ -5769,6 +6076,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_daily_three_point_signal",
       "target": "docs_assets_og_resuma_workshop_confirmation"
     },
@@ -5779,6 +6087,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_authorized_whatsapp_group_conversations"
     },
@@ -5789,6 +6098,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_close_summaries"
     },
@@ -5799,6 +6109,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_community_conversation_compressed_into_signal"
     },
@@ -5809,6 +6120,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_github_repository"
     },
@@ -5819,6 +6131,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_manually_managed_pilot"
     },
@@ -5829,6 +6142,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_no_app_switching"
     },
@@ -5839,6 +6153,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_product_documentation"
     },
@@ -5849,6 +6164,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_searchable_memory"
     },
@@ -5859,6 +6175,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_resuma",
       "target": "docs_assets_og_resuma_source_backed_answers"
     },
@@ -5869,6 +6186,7 @@
       "source_file": "docs/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_resuma_mark_resuma_mark",
       "target": "docs_assets_resuma_mark_progressive_lines"
     },
@@ -5879,6 +6197,7 @@
       "source_file": "docs/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_resuma_mark_resuma_mark",
       "target": "docs_assets_resuma_mark_signal_point"
     },
@@ -5889,6 +6208,7 @@
       "source_file": "docs/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_index_public_demo",
       "target": "docs_install_installation_guide"
     },
@@ -5899,6 +6219,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_installation_guide",
       "target": "docs_install_community_store_port"
     },
@@ -5909,6 +6230,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_installation_guide",
       "target": "docs_install_message_adapter_port"
     },
@@ -5919,6 +6241,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_commercial_hero",
       "target": "media_resuma_hero_free_community_pilot"
     },
@@ -5929,6 +6252,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_commercial_hero",
       "target": "media_resuma_hero_group_conversation"
     },
@@ -5939,6 +6263,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_commercial_hero",
       "target": "media_resuma_hero_pilot_call_to_action"
     },
@@ -5949,6 +6274,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_commercial_hero",
       "target": "media_resuma_hero_resuma_brand"
     },
@@ -5959,6 +6285,7 @@
       "source_file": "product/STATUS.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "product_status_product_status",
       "target": "product_status_current_pilot_boundary"
     },
@@ -5969,6 +6296,7 @@
       "source_file": "product/STATUS.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "product_status_product_status",
       "target": "product_status_in_development_capabilities"
     },
@@ -5979,6 +6307,7 @@
       "source_file": "product/STATUS.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "product_status_product_status",
       "target": "product_status_public_core_boundary"
     },
@@ -5989,6 +6318,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "contributing_contribution_policy"
     },
@@ -5999,6 +6329,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "docs_install_installation_guide"
     },
@@ -6009,6 +6340,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "product_status_product_status"
     },
@@ -6019,6 +6351,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "security_security_policy"
     },
@@ -6029,6 +6362,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_resuma",
       "target": "trademarks_resuma_trademarks"
     },
@@ -6039,6 +6373,7 @@
       "source_file": "SECURITY.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "security_security_policy",
       "target": "security_adapter_security_invariants"
     },
@@ -6049,6 +6384,7 @@
       "source_file": "site/assets/resuma-mark-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_dark_resuma_mark",
       "target": "site_assets_resuma_mark_dark_circular_point"
     },
@@ -6059,6 +6395,7 @@
       "source_file": "site/assets/resuma-mark-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_dark_resuma_mark",
       "target": "site_assets_resuma_mark_dark_progressive_bars"
     },
@@ -6069,6 +6406,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_resuma_mark",
       "target": "site_assets_resuma_mark_accessible_image_metadata"
     },
@@ -6079,6 +6417,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_resuma_mark",
       "target": "site_assets_resuma_mark_progressively_shorter_lines"
     },
@@ -6089,6 +6428,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_resuma_mark",
       "target": "site_assets_resuma_mark_signal_dot"
     },
@@ -6099,6 +6439,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_resuma_mark",
       "target": "site_assets_resuma_mark_signal_lime"
     },
@@ -6109,6 +6450,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_resuma_mark",
       "target": "site_assets_resuma_mark_transformation_into_signal"
     },
@@ -6119,6 +6461,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_index_commercial_site",
       "target": "site_index_manual_pilot_selection"
     },
@@ -6129,6 +6472,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_index_commercial_site",
       "target": "site_index_sponsored_sustainability_model"
     },
@@ -6139,6 +6483,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_resuma_engine_integration",
       "target": "docs_install_community_store_port"
     },
@@ -6149,6 +6494,7 @@
       "source_file": "docs/INSTALL.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_install_resuma_engine_integration",
       "target": "docs_install_message_adapter_port"
     },
@@ -6159,6 +6505,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_group_conversation",
       "target": "media_resuma_hero_daily_summary"
     },
@@ -6169,6 +6516,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_authorized_group_conversations",
       "target": "readme_concise_summaries"
     },
@@ -6179,6 +6527,7 @@
       "source_file": "README.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "readme_authorized_group_conversations",
       "target": "readme_sourced_question_search"
     },
@@ -6189,6 +6538,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_searchable_memory",
       "target": "docs_assets_og_resuma_preserved_links"
     },
@@ -6199,6 +6549,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_source_backed_answers",
       "target": "docs_assets_og_resuma_preserved_links"
     },
@@ -6209,6 +6560,7 @@
       "source_file": "docs/robots.txt",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_robots_public_crawl_policy",
       "target": "docs_index_public_demo"
     },
@@ -6219,6 +6571,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_information_convergence",
       "target": "brand_concepts_resuma_brand_board_v1_tagline"
     },
@@ -6229,6 +6582,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_signal_lime",
       "target": "brand_concepts_resuma_brand_board_v1_information_convergence"
     },
@@ -6239,6 +6593,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_authorized_whatsapp_group_conversations",
       "target": "docs_assets_og_resuma_organized_messages"
     },
@@ -6249,6 +6604,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_daily_summary",
       "target": "media_resuma_hero_sourced_community_memory"
     },
@@ -6259,6 +6615,7 @@
       "source_file": "site/assets/resuma-mark-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_dark_circular_point",
       "target": "site_assets_resuma_mark_dark_signal"
     },
@@ -6269,6 +6626,7 @@
       "source_file": "site/assets/resuma-mark-dark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_dark_progressive_bars",
       "target": "site_assets_resuma_mark_dark_signal"
     },
@@ -6279,6 +6637,7 @@
       "source_file": "site/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_assets_resuma_mark_signal_lime",
       "target": "site_assets_resuma_mark_transformation_into_signal"
     },
@@ -6289,6 +6648,7 @@
       "source_file": "docs/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_index_confidence_over_invention",
       "target": "brand_brand_evidence_over_promises"
     },
@@ -6299,6 +6659,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_index_authorized_group_privacy",
       "target": "security_adapter_security_invariants"
     },
@@ -6309,6 +6670,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_information_convergence",
       "target": "brand_concepts_resuma_brand_board_v1_resuma_logo"
     },
@@ -6319,6 +6681,7 @@
       "source_file": "brand/concepts/resuma-brand-board-v1.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_concepts_resuma_brand_board_v1_product_interface",
       "target": "brand_concepts_resuma_brand_board_v1_resuma_domain"
     },
@@ -6329,6 +6692,7 @@
       "source_file": "brand/logo/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_mark_conversation_lines",
       "target": "brand_logo_resuma_mark_conversation_signal"
     },
@@ -6339,6 +6703,7 @@
       "source_file": "brand/logo/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_logo_resuma_mark_signal_point",
       "target": "brand_logo_resuma_mark_conversation_signal"
     },
@@ -6349,6 +6714,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_simulated_demo_labeling",
       "target": "site_index_commercial_site"
     },
@@ -6359,6 +6725,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_community_conversation_compressed_into_signal",
       "target": "docs_assets_og_resuma_daily_three_point_signal"
     },
@@ -6369,6 +6736,7 @@
       "source_file": "docs/assets/resuma-mark.svg",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_resuma_mark_signal_point",
       "target": "docs_assets_resuma_mark_signal"
     },
@@ -6379,6 +6747,7 @@
       "source_file": "docs/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_index_transparent_roadmap",
       "target": "product_status_in_development_capabilities"
     },
@@ -6389,6 +6758,7 @@
       "source_file": "media/resuma-hero.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "media_resuma_hero_group_conversation",
       "target": "media_resuma_hero_signal_compression"
     },
@@ -6399,6 +6769,7 @@
       "source_file": "site/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "site_index_commercial_site",
       "target": "product_status_current_pilot_boundary"
     },
@@ -6409,6 +6780,7 @@
       "source_file": "brand/BRAND.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "brand_brand_roadmap_claim_boundary",
       "target": "product_status_public_claim_source_of_truth"
     },
@@ -6419,6 +6791,7 @@
       "source_file": "CONTRIBUTING.md",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "contributing_public_claim_alignment",
       "target": "product_status_public_claim_source_of_truth"
     },
@@ -6429,6 +6802,7 @@
       "source_file": "docs/assets/og-resuma.png",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_assets_og_resuma_close_summaries",
       "target": "docs_assets_og_resuma_daily_three_point_signal"
     },
@@ -6439,6 +6813,7 @@
       "source_file": "docs/index.html",
       "source_location": null,
       "weight": 1.0,
+      "_origin": "semantic",
       "source": "docs_index_open_core_private_edges",
       "target": "readme_explicit_adapter_boundaries"
     }
@@ -6525,5 +6900,5 @@
       "source_file": "site/assets/resuma-mark.svg"
     }
   ],
-  "built_at_commit": "9e00feeaee01c7901a6b50bc05ac86099efadd07"
+  "built_at_commit": "306ee12b41db6bfe876d228aa7c6e6cc87dc3ec1"
 }
