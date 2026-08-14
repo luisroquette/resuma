@@ -1,0 +1,9 @@
+brand/
+content/
+docs/
+media/
+product/
+supabase/
+test-results/
+tests/
+*.md

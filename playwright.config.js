@@ -2,6 +2,7 @@ const { defineConfig, devices } = require('@playwright/test');
 
 module.exports = defineConfig({
   testDir: './tests',
+  testIgnore: '**/*.unit.test.js',
   outputDir: './test-results',
   reporter: 'list',
   use: {

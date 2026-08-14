@@ -1,0 +1,33 @@
+.privacy-page { background: var(--ivory); }
+.privacy-nav { display: flex; align-items: center; gap: 26px; }
+.privacy-nav a { color: #c4cbc7; font-size: .88rem; font-weight: 600; text-decoration: none; }
+.privacy-nav .nav-cta { padding: 10px 15px; color: var(--charcoal); background: var(--lime); border-radius: 999px; }
+.privacy-hero { padding: 190px 0 115px; color: var(--ivory); background: var(--charcoal); }
+.privacy-hero h1 { max-width: 980px; }
+.privacy-hero > div > p:last-child { max-width: 750px; margin: 34px 0 0; color: #a7b0ab; font-size: 1.2rem; }
+.policy-layout { padding: 110px 0 150px; display: grid; grid-template-columns: 230px 1fr; gap: 100px; align-items: start; }
+.policy-index { position: sticky; top: 120px; display: grid; gap: 10px; }
+.policy-index strong { margin-bottom: 10px; font: 500 .65rem var(--mono); text-transform: uppercase; }
+.policy-index a { color: #68736d; font-size: .86rem; text-decoration: none; }
+.policy-index a:hover { color: #537f19; }
+.policy-copy { min-width: 0; }
+.policy-copy section { padding: 0 0 90px; margin-bottom: 90px; border-bottom: 1px solid var(--line-light); scroll-margin-top: 115px; }
+.policy-copy section:last-child { margin-bottom: 0; }
+.policy-kicker { margin: 0 0 18px; color: #56645d; font: 500 .65rem var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.policy-copy h2 { max-width: 810px; margin: 0 0 30px; font-size: clamp(2.8rem, 5vw, 5.3rem); font-weight: 500; line-height: .95; letter-spacing: -.06em; }
+.policy-copy > section > p:not(.policy-kicker) { max-width: 780px; color: #505b55; font-size: 1.05rem; }
+.policy-copy a { text-underline-offset: 4px; }
+.policy-summary { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--line-light); border-left: 1px solid var(--line-light); }
+.policy-summary div { min-height: 165px; padding: 18px; display: flex; flex-direction: column; justify-content: space-between; border-right: 1px solid var(--line-light); border-bottom: 1px solid var(--line-light); }
+.policy-summary span { color: #617069; font: 500 .6rem var(--mono); }.policy-summary strong { max-width: 310px; font-size: 1.1rem; line-height: 1.2; }
+.data-table { border-top: 1px solid var(--line-light); }
+.data-row { min-height: 125px; display: grid; grid-template-columns: .65fr 1fr 1.2fr; gap: 24px; align-items: start; padding: 22px 0; border-bottom: 1px solid var(--line-light); }
+.data-row > * { font-size: .88rem; }.data-row > span { color: #5d6862; }.data-head { min-height: 0; color: #6c7771; font: 500 .58rem var(--mono); text-transform: uppercase; }
+.policy-note { margin-top: 28px; padding: 18px; color: #34402d !important; background: rgba(183,255,74,.36); border-left: 5px solid #6ca51f; }
+.policy-copy ul { max-width: 780px; margin: 0; padding-left: 20px; }.policy-copy li { padding: 8px 0; color: #505b55; }
+.policy-button { min-height: 45px; margin-top: 20px; padding: 0 15px; color: var(--ivory); background: var(--charcoal); border: 0; cursor: pointer; font-weight: 700; }
+.rights-form { max-width: 760px; margin-top: 45px; padding: 30px; display: grid; gap: 18px; background: #e4e2d7; border: 1px solid #c3c3b8; }
+.rights-form label { display: grid; gap: 8px; font-size: .83rem; font-weight: 700; }.rights-form input,.rights-form select,.rights-form textarea { width: 100%; padding: 13px 12px; color: var(--charcoal); background: #fffef8; border: 1px solid #bbc1ba; border-radius: 0; outline: none; }.rights-form textarea { resize: vertical; }.rights-form input:focus,.rights-form select:focus,.rights-form textarea:focus { border-color: var(--charcoal); box-shadow: 0 0 0 3px rgba(183,255,74,.65); }.rights-form button { width: max-content; border: 0; cursor: pointer; }.rights-form button:disabled { opacity: .55; cursor: wait; }.rights-form .form-status { text-align: left; }
+.privacy-footer { color: var(--ivory); }
+@media(max-width:900px){.policy-layout{grid-template-columns:1fr;gap:60px}.policy-index{position:static;padding-bottom:25px;border-bottom:1px solid var(--line-light)}.data-row{grid-template-columns:1fr}.data-head{display:none}}
+@media(max-width:760px){.privacy-nav>a:first-child{display:none}.privacy-nav{margin-left:auto}.privacy-hero{padding:140px 0 85px}.privacy-hero h1{font-size:clamp(3.4rem,15vw,5.3rem)}.policy-layout{padding:75px 0 100px}.policy-copy section{padding-bottom:65px;margin-bottom:65px}.policy-summary{grid-template-columns:1fr}.policy-copy h2{font-size:clamp(2.8rem,13vw,4.5rem)}.rights-form{padding:20px}.rights-form button{width:100%}}

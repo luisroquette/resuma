@@ -48,9 +48,12 @@ This repository currently contains:
 ```text
 brand/      Public brand system and logo assets
 content/    Audited Brazilian Portuguese website copy
+api/        Server-only intake, privacy request, and consent-gated analytics functions
 media/      Public product screenshots
 product/    Product status and public claim rules
+server/     Validation, origin enforcement, and Supabase REST helpers
 site/       Brazilian Portuguese commercial website
+supabase/   RLS-enabled schema and automated retention migrations
 tests/      Browser tests for desktop, mobile, and no-JavaScript fallback
 ```
 
@@ -66,6 +69,14 @@ npm run serve
 ```
 
 Open `http://127.0.0.1:4173`.
+
+To run the complete Vercel runtime, copy `.env.example` to a local ignored file, provide a dedicated Supabase project URL and server secret, then run:
+
+```bash
+vercel dev
+```
+
+The Supabase secret is server-only. The browser never receives a database key.
 
 Run the browser validation:
 
@@ -91,7 +102,9 @@ The private pilot uses [Evolution API](https://github.com/EvolutionAPI/evolution
 
 ## Privacy and security
 
-Resuma is designed around explicitly authorized groups, purpose limitation, administrator controls, and transparent product status. Public examples are simulated and contain no customer data.
+Resuma is designed around explicitly authorized groups, purpose limitation, administrator controls, and transparent product status. Public examples are simulated and contain no customer data. The pilot application form performs no automatic outreach, and optional first-party metrics remain disabled until explicit consent.
+
+The public intake schema enables RLS on every exposed table, revokes access from `anon` and `authenticated`, and schedules retention for applications, privacy requests, and analytics events.
 
 Do not report vulnerabilities through public issues. Follow [SECURITY.md](SECURITY.md) for private reporting instructions.
 

@@ -6,7 +6,8 @@
   "scripts": {
     "serve": "python3 -m http.server 4173 --directory site",
     "serve:docs": "python3 -m http.server 4174 --directory docs",
-    "test": "playwright test"
+    "test": "npm run test:unit && playwright test",
+    "test:unit": "node --test tests/*.unit.test.js"
   },
   "devDependencies": {
     "@playwright/test": "1.62.1"

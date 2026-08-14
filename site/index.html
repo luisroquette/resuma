@@ -323,12 +323,62 @@
 
     <section class="pilot-section" id="piloto">
       <div class="pilot-noise" aria-hidden="true"></div>
-      <div class="page-shell pilot-content reveal">
-        <p class="eyebrow">Primeiros grupos</p>
-        <h2>Sua comunidade pode ser uma das próximas.</h2>
-        <p>Conte como seu grupo funciona. A seleção e a ativação do piloto são manuais.</p>
-        <a class="button button-primary large-button" href="mailto:piloto@resuma.ia.br?subject=Quero%20testar%20o%20Resuma">Quero testar gratuitamente <span aria-hidden="true">↗</span></a>
-        <small>Sem instalação automática. Analisamos cada grupo antes de ativar.</small>
+      <div class="page-shell pilot-grid">
+        <div class="pilot-content reveal">
+          <p class="eyebrow">Primeiros grupos</p>
+          <h2>Sua comunidade pode ser uma das próximas.</h2>
+          <p>Conte como seu grupo funciona. A seleção e a ativação do piloto são manuais.</p>
+          <div class="pilot-rules">
+            <span>01 / Sem instalação automática</span>
+            <span>02 / Análise humana de cada grupo</span>
+            <span>03 / Nenhum contato automático</span>
+          </div>
+        </div>
+
+        <form class="pilot-form reveal reveal-delay" action="/api/waitlist" method="post" data-pilot-form>
+          <input type="hidden" name="startedAt" value="" data-started-at>
+          <div class="honeypot" aria-hidden="true">
+            <label for="company-website">Site da empresa</label>
+            <input id="company-website" name="companyWebsite" type="text" tabindex="-1" autocomplete="off">
+          </div>
+          <div class="field-pair">
+            <label>Seu nome<input name="name" type="text" autocomplete="name" minlength="2" maxlength="120" required></label>
+            <label>Seu melhor e-mail<input name="email" type="email" autocomplete="email" maxlength="254" required></label>
+          </div>
+          <div class="field-pair">
+            <label>WhatsApp <span>(opcional)</span><input name="whatsapp" type="tel" autocomplete="tel" maxlength="32" inputmode="tel"></label>
+            <label>Nome da comunidade<input name="communityName" type="text" maxlength="160" required></label>
+          </div>
+          <div class="field-pair">
+            <label>Tamanho do grupo
+              <select name="memberRange" required>
+                <option value="">Selecione</option>
+                <option value="up_to_50">Até 50 participantes</option>
+                <option value="51_to_200">51 a 200 participantes</option>
+                <option value="201_to_500">201 a 500 participantes</option>
+                <option value="more_than_500">Mais de 500 participantes</option>
+              </select>
+            </label>
+            <label>Seu papel no grupo
+              <select name="applicantRole" required>
+                <option value="">Selecione</option>
+                <option value="owner">Responsável pela comunidade</option>
+                <option value="administrator">Administrador</option>
+                <option value="moderator">Moderador</option>
+                <option value="member">Participante</option>
+                <option value="other">Outro</option>
+              </select>
+            </label>
+          </div>
+          <label>O que o Resuma precisa resolver no seu grupo?
+            <textarea name="goals" minlength="20" maxlength="2000" rows="5" required></textarea>
+          </label>
+          <label class="checkbox-field"><input name="privacyNoticeAcknowledged" type="checkbox" required><span>Li o <a href="privacidade/">Aviso de Privacidade</a> e estou ciente de como meus dados serão usados nesta inscrição.</span></label>
+          <label class="checkbox-field"><input name="contactRequested" type="checkbox" required><span>Solicito contato humano sobre a seleção e a possível ativação do piloto.</span></label>
+          <button class="button button-primary large-button" type="submit">Enviar candidatura <span aria-hidden="true">↗</span></button>
+          <p class="form-status" role="status" aria-live="polite" data-form-status></p>
+          <small>Seus dados não entram em campanhas automáticas.</small>
+        </form>
       </div>
     </section>
   </main>
@@ -343,7 +393,8 @@
       <nav aria-label="Links do rodapé">
         <a href="privacidade/">Privacidade</a>
         <a href="https://github.com/luisroquette/resuma" rel="noreferrer">GitHub</a>
-        <a href="mailto:contato@resuma.ia.br">Contato</a>
+        <a href="privacidade/#direitos">Exercer direitos</a>
+        <button class="privacy-settings" type="button" data-privacy-settings>Preferências de privacidade</button>
       </nav>
     </div>
     <div class="page-shell footer-legal">
@@ -352,5 +403,17 @@
       <span>Integração baseada na Evolution API.</span>
     </div>
   </footer>
+
+  <aside class="consent-banner" aria-label="Preferências de privacidade" hidden data-consent-banner>
+    <div>
+      <strong>Métricas opcionais</strong>
+      <p>Podemos registrar páginas visitadas e cliques principais, sem cookies publicitários e sem coletar seu IP. Nada é enviado antes da sua escolha.</p>
+      <a href="privacidade/#metricas">Como funcionam as métricas</a>
+    </div>
+    <div class="consent-actions">
+      <button type="button" data-consent-reject>Continuar sem métricas</button>
+      <button type="button" data-consent-accept>Permitir métricas</button>
+    </div>
+  </aside>
 </body>
 </html>
