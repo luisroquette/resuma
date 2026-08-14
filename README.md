@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://resuma.ia.br">Website</a> ·
-  <a href="https://luisroquette.github.io/resuma/">GitHub Pages</a> ·
+  <a href="https://luisroquette.github.io/resuma/">Live demo</a> ·
+  <a href="docs/INSTALL.md">Install</a> ·
   <a href="product/STATUS.md">Product status</a> ·
   <a href="SECURITY.md">Security</a>
 </p>
@@ -20,9 +20,9 @@
 
 Active communities produce useful knowledge and bury it at the same speed. Resuma turns authorized group conversations into short summaries and a queryable memory without asking members to adopt another application.
 
-The product is currently running as a manually managed pilot. The public website intentionally separates working capabilities from roadmap ideas.
+The repository includes a provider-neutral, deterministic core that anyone can clone, run locally, and connect to an authorized messaging provider. The organization-specific pilot remains private.
 
-## Available in the pilot
+## Available in the open-source core
 
 - Concise text summaries with real topics, decisions, pending items, and links when present.
 - Sourced `!pergunta` queries with a low-confidence fallback instead of a fabricated answer.
@@ -30,7 +30,7 @@ The product is currently running as a manually managed pilot. The public website
 - Participant join and leave events with configurable follow-up flows.
 - WhatsApp-native commands inside an authorized group.
 
-See [Product Status](product/STATUS.md) for the claim and release rules used by every public surface.
+No paid AI API is required. See [Product Status](product/STATUS.md) for the exact boundary between the public core and the private pilot.
 
 ## In development
 
@@ -47,38 +47,44 @@ This repository currently contains:
 
 ```text
 brand/      Public brand system and logo assets
+core/       Provider-neutral summaries, search, commands, events, and campaigns
 content/    Audited Brazilian Portuguese website copy
+examples/   Runnable local integration with simulated community data
 media/      Public product screenshots
 product/    Product status and public claim rules
 site/       Brazilian Portuguese commercial website
-tests/      Browser tests for desktop, mobile, and no-JavaScript fallback
+tests/      Core unit tests and GitHub Pages browser tests
 ```
 
-The organization-specific pilot engine, credentials, customer data, and private deployment configuration are not published here. A sanitized, provider-neutral core is planned for a later release after tenant isolation, consent, and security boundaries are complete.
+The repository never includes customer data, credentials, production group identifiers, or organization-specific campaign copy. Connectivity, durable storage, consent, and deployment remain explicit adapter responsibilities.
 
 ## Local development
 
-Requirements: Node.js 20 or newer, npm, Python 3, and Chromium for Playwright.
+Requirements: Node.js 20 or newer and npm. Python 3 and Chromium are only needed for browser tests.
 
 ```bash
-npm install
-npm run serve
+git clone https://github.com/luisroquette/resuma.git
+cd resuma
+npm ci
+npm run demo
 ```
 
-Open `http://127.0.0.1:4173`.
+The demo processes simulated messages, answers `!pergunta`, creates a concise summary, and sends a configured campaign after a participant leaves. Nothing is sent to WhatsApp.
 
-Run the browser validation:
+Run all validations:
 
 ```bash
 npm test
 ```
+
+Read the [installation and adapter guide](docs/INSTALL.md) before connecting a real group.
 
 ## Architecture direction
 
 ```mermaid
 flowchart LR
   A[Authorized WhatsApp group] --> B[Connectivity adapter]
-  B --> C[Sanitized community intelligence core]
+  B --> C[Open-source Resuma core]
   C --> D[Concise summaries]
   C --> E[Sourced question search]
   C --> F[Auditable group events]
@@ -87,7 +93,7 @@ flowchart LR
   F --> G[Configured follow-up flows]
 ```
 
-The private pilot uses [Evolution API](https://github.com/EvolutionAPI/evolution-api) as its WhatsApp connectivity layer. Resuma is an independent project and is not affiliated with or endorsed by WhatsApp or Meta.
+The public core does not bundle or endorse a provider. The private pilot currently uses [Evolution API](https://github.com/EvolutionAPI/evolution-api) behind an adapter. Resuma is independent and is not affiliated with or endorsed by WhatsApp or Meta.
 
 ## Privacy and security
 
@@ -97,7 +103,7 @@ Do not report vulnerabilities through public issues. Follow [SECURITY.md](SECURI
 
 ## Contributing
 
-The public core is not available yet, but website, documentation, accessibility, and localization improvements are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Core adapters, storage implementations, tests, documentation, accessibility, and localization improvements are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License and trademarks
 

@@ -45,12 +45,12 @@
     <section class="hero" id="top">
       <div class="shell hero-grid">
         <div class="hero-copy">
-          <p class="eyebrow"><i></i> Manually managed pilot</p>
+          <p class="eyebrow"><i></i> Open-source core</p>
           <h1>Community conversation,<br><em>compressed into signal.</em></h1>
           <p class="lede">Resuma turns authorized WhatsApp group conversations into concise summaries, searchable memory, and sourced answers — without sending members to another app.</p>
           <div class="actions">
-            <a class="button" href="https://resuma.ia.br">Visit the product site <span aria-hidden="true">↗</span></a>
-            <a class="text-link" href="https://github.com/luisroquette/resuma">Explore the repository</a>
+            <a class="button" href="https://github.com/luisroquette/resuma#local-development">Clone and run <span aria-hidden="true">↗</span></a>
+            <a class="text-link" href="https://github.com/luisroquette/resuma">Explore the source</a>
           </div>
         </div>
 
@@ -104,15 +104,15 @@
         <div class="architecture-copy">
           <p class="eyebrow"><i></i> Architecture direction</p>
           <h2>A sanitized core, separated from connectivity and customer data.</h2>
-          <p>The organization-specific pilot engine remains private. The planned public core will be provider-neutral and released only after tenant isolation, consent, and security boundaries are complete.</p>
-          <a href="https://github.com/luisroquette/resuma/blob/main/product/STATUS.md">Read the source of truth <span aria-hidden="true">↗</span></a>
+          <p>The provider-neutral core is public now. Connectivity and storage are explicit adapter boundaries, while customer data and organization-specific configuration remain private.</p>
+          <a href="https://github.com/luisroquette/resuma/blob/main/docs/INSTALL.md">Read the installation guide <span aria-hidden="true">↗</span></a>
         </div>
         <div class="architecture-flow" role="img" aria-label="Authorized group flows through a connectivity adapter into a sanitized core, which returns summaries and sourced answers">
           <div class="node node-source"><span>01</span><strong>Authorized group</strong><small>Explicit scope</small></div>
           <i class="connector"></i>
           <div class="node"><span>02</span><strong>Connectivity adapter</strong><small>Replaceable boundary</small></div>
           <i class="connector"></i>
-          <div class="node core-node"><span>03</span><strong>Sanitized core</strong><small>Summaries · search · events</small></div>
+          <div class="node core-node"><span>03</span><strong>Open-source core</strong><small>Summaries · search · events</small></div>
           <div class="output-nodes"><div>CONCISE SUMMARY</div><div>SOURCED ANSWER</div><div>CONFIGURED FLOW</div></div>
         </div>
       </div>
@@ -149,10 +149,10 @@
 
     <section class="cta-section">
       <div class="shell">
-        <p class="eyebrow"><i></i> First communities</p>
-        <h2>Bring clarity back<br>to the group.</h2>
-        <p>Selected communities can join the manually managed pilot at no cost.</p>
-        <a class="button dark-button" href="https://resuma.ia.br/#piloto">Apply for the free pilot <span aria-hidden="true">↗</span></a>
+        <p class="eyebrow"><i></i> Build your own</p>
+        <h2>Clone it. Connect it.<br>Keep control.</h2>
+        <p>The core runs locally with simulated data and no paid AI API.</p>
+        <a class="button dark-button" href="https://github.com/luisroquette/resuma#local-development">Get the source on GitHub <span aria-hidden="true">↗</span></a>
       </div>
     </section>
   </main>
@@ -161,9 +161,9 @@
     <div class="shell footer-main">
       <a class="logo" href="#top"><img src="assets/resuma-mark.svg" width="24" height="31" alt=""><span>resuma</span></a>
       <p>Free intelligence for WhatsApp communities.</p>
-      <nav aria-label="Footer navigation"><a href="https://resuma.ia.br">Product</a><a href="https://github.com/luisroquette/resuma">GitHub</a><a href="https://github.com/luisroquette/resuma/security">Security</a></nav>
+      <nav aria-label="Footer navigation"><a href="https://github.com/luisroquette/resuma/blob/main/docs/INSTALL.md">Install</a><a href="https://github.com/luisroquette/resuma">GitHub</a><a href="https://github.com/luisroquette/resuma/security">Security</a></nav>
     </div>
-    <div class="shell legal"><span>© <span data-year></span> Resuma</span><span>Independent project · Not affiliated with WhatsApp or Meta</span><span>Connectivity powered by Evolution API</span></div>
+    <div class="shell legal"><span>© <span data-year></span> Resuma</span><span>Independent project · Not affiliated with WhatsApp or Meta</span><span>Provider-neutral open-source core</span></div>
   </footer>
 </body>
 </html>
