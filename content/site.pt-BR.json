@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "Resuma — Inteligência gratuita para comunidades no WhatsApp",
+    "description": "Resumos curtos, memória consultável e respostas com fontes para comunidades no WhatsApp. Participe gratuitamente do piloto.",
+    "siteName": "Resuma"
+  },
+  "navigation": {
+    "items": [
+      { "label": "Como funciona", "href": "#como-funciona" },
+      { "label": "Recursos", "href": "#recursos" },
+      { "label": "Privacidade", "href": "#privacidade" },
+      { "label": "Perguntas", "href": "#perguntas" }
+    ],
+    "cta": "Quero testar gratuitamente"
+  },
+  "hero": {
+    "eyebrow": "Piloto gratuito para comunidades",
+    "title": "O grupo fala. O Resuma entrega o que importa.",
+    "description": "Resumos curtos, memória consultável e respostas com fontes — dentro do WhatsApp, sem obrigar sua comunidade a aprender outro aplicativo.",
+    "primaryCta": "Quero testar gratuitamente",
+    "secondaryCta": "Ver como funciona",
+    "proof": "Em uso em uma comunidade real"
+  },
+  "problem": {
+    "eyebrow": "Menos ruído. Mais contexto.",
+    "title": "A conversa cresce. O conhecimento não pode se perder.",
+    "items": [
+      {
+        "title": "Centenas de mensagens",
+        "description": "Quem chega depois precisa rolar a tela inteira para entender o dia."
+      },
+      {
+        "title": "Decisões esquecidas",
+        "description": "Prazos, links e respostas importantes desaparecem no histórico."
+      },
+      {
+        "title": "Administradores sobrecarregados",
+        "description": "Organizar informação e manter a comunidade ativa vira trabalho manual."
+      }
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "Como funciona",
+    "title": "Do fluxo de mensagens ao sinal útil.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "O Resuma acompanha o grupo",
+        "description": "Apenas no grupo autorizado e dentro das regras definidas pelo administrador."
+      },
+      {
+        "number": "02",
+        "title": "Organiza o que aconteceu",
+        "description": "Mensagens e eventos viram registros estruturados, com contexto e origem."
+      },
+      {
+        "number": "03",
+        "title": "Entrega clareza no WhatsApp",
+        "description": "A comunidade recebe resumos curtos e consulta o histórico com !pergunta."
+      }
+    ]
+  },
+  "available": {
+    "eyebrow": "Disponível no piloto",
+    "title": "Recursos que já funcionam em um grupo real.",
+    "items": [
+      {
+        "title": "Resumos em texto",
+        "description": "Sínteses curtas em tópicos, com decisões, pendências, links e destaques quando existirem."
+      },
+      {
+        "title": "Memória com !pergunta",
+        "description": "Perguntas em linguagem natural respondidas a partir do histórico disponível, com referências para conferência."
+      },
+      {
+        "title": "Campanhas configuradas",
+        "description": "Anúncios patrocinados e respostas por gatilho, com frequência e conteúdo definidos pelo administrador."
+      },
+      {
+        "title": "Eventos do grupo",
+        "description": "Entradas e saídas de participantes entram no contexto operacional e podem acionar fluxos configurados."
+      }
+    ]
+  },
+  "demo": {
+    "summary": {
+      "time": "18:30",
+      "label": "Resumo do dia",
+      "lines": [
+        "• A oficina foi confirmada para terça-feira, às 19h.",
+        "• O formulário de inscrição fecha amanhã.",
+        "• Dois links úteis foram compartilhados e estão salvos."
+      ]
+    },
+    "question": {
+      "user": "!pergunta quando fecha a inscrição?",
+      "answer": "A inscrição fecha amanhã. Essa informação apareceu na mensagem de Marina, enviada hoje às 14:12.",
+      "source": "1 fonte encontrada"
+    }
+  },
+  "roadmap": {
+    "eyebrow": "Roadmap transparente",
+    "title": "O que ainda está em desenvolvimento.",
+    "items": [
+      "Podcast automático com áudio sintetizado",
+      "Moderação avançada e políticas automáticas",
+      "Painel independente para múltiplas comunidades",
+      "Onboarding autônomo para administradores"
+    ],
+    "note": "Esses recursos não fazem parte do piloto atual."
+  },
+  "freeModel": {
+    "eyebrow": "Gratuito com sustentabilidade",
+    "title": "A comunidade recebe inteligência. Parceiros ajudam a pagar a infraestrutura.",
+    "description": "No piloto, grupos selecionados usam o Resuma gratuitamente. Campanhas patrocinadas identificadas podem financiar a operação, sempre com regras definidas pelo administrador.",
+    "principles": [
+      "Patrocínio identificado",
+      "Frequência configurável",
+      "Publicidade sempre identificada",
+      "Administrador no controle"
+    ]
+  },
+  "privacy": {
+    "eyebrow": "Privacidade desde o piloto",
+    "title": "Acesso limitado ao grupo autorizado.",
+    "description": "O Resuma processa o conteúdo necessário para gerar resumos e responder consultas. O administrador define o grupo e os recursos ativos. A política pública detalha dados, finalidade, retenção e direitos dos participantes.",
+    "linkLabel": "Ler política de privacidade"
+  },
+  "faq": [
+    {
+      "question": "O Resuma já pode ser instalado em qualquer grupo?",
+      "answer": "Ainda não. O produto está em piloto e novos grupos são selecionados manualmente."
+    },
+    {
+      "question": "É realmente gratuito?",
+      "answer": "O piloto é gratuito para os grupos selecionados. O modelo definitivo prevê patrocínios identificados para sustentar a infraestrutura sem cobrar da comunidade."
+    },
+    {
+      "question": "Preciso instalar outro aplicativo?",
+      "answer": "Não. A experiência da comunidade acontece dentro do próprio grupo no WhatsApp."
+    },
+    {
+      "question": "O Resuma inventa respostas?",
+      "answer": "O comando !pergunta busca evidências no histórico disponível e informa quando não encontra uma resposta confiável."
+    },
+    {
+      "question": "Podcast e moderação já estão disponíveis?",
+      "answer": "Não. Os dois recursos estão publicados como roadmap e não fazem parte do piloto atual."
+    }
+  ],
+  "finalCta": {
+    "eyebrow": "Primeiros grupos",
+    "title": "Sua comunidade pode ser uma das próximas.",
+    "description": "Conte como seu grupo funciona. A seleção e a ativação do piloto são manuais.",
+    "button": "Quero testar gratuitamente"
+  }
+}
