@@ -2,7 +2,9 @@
 
 ## Supported scope
 
-The public repository currently covers the Resuma websites, public documentation, brand assets, and browser tests. The private pilot service is not distributed from this repository.
+The public repository covers the provider-neutral core, examples, websites, documentation, brand assets, and tests. Provider adapters and storage implementations must preserve group isolation, idempotency, explicit authorization, and server-only credentials.
+
+The private pilot service, credentials, customer data, production identifiers, and organization-specific configuration are not distributed here.
 
 ## Reporting a vulnerability
 

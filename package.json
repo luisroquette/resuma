@@ -2,13 +2,22 @@
   "name": "resuma",
   "version": "0.1.0",
   "private": true,
-  "description": "Public website and documentation for Resuma.",
+  "description": "Provider-neutral community intelligence core and public website for Resuma.",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "demo": "npm run build && node dist/examples/local-demo.js",
     "serve": "python3 -m http.server 4173 --directory site",
     "serve:docs": "python3 -m http.server 4174 --directory docs",
-    "test": "playwright test"
+    "test": "npm run test:core && playwright test",
+    "test:core": "npm run build && node --test dist/tests/core.test.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "devDependencies": {
-    "@playwright/test": "1.62.1"
+    "@playwright/test": "1.62.1",
+    "@types/node": "20.19.43",
+    "typescript": "5.9.3"
   }
 }

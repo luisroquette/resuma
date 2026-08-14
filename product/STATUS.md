@@ -2,6 +2,18 @@
 
 This document is the public source of truth for product claims. Website copy and repository documentation must not describe roadmap work as released.
 
+## Available in the public core
+
+| Capability | Status | Public implementation |
+|---|---|---|
+| Concise deterministic summaries | Available | `core/summary.ts` |
+| Sourced `!pergunta` search | Available | `core/search.ts` and `core/engine.ts` |
+| Configurable commands | Available | `core/engine.ts` |
+| Participant join and leave events | Available | Provider-neutral event types in `core/types.ts` |
+| Triggered and weekly campaigns | Available | `core/engine.ts` and `core/campaigns.ts` |
+
+The public core ships without a WhatsApp provider, production database, tenant dashboard, or customer configuration. The local demo uses only simulated data.
+
 ## Available in the current pilot
 
 | Capability | Status | Evidence in the private pilot implementation |

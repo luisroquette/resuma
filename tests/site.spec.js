@@ -35,7 +35,7 @@ test('keeps content visible when JavaScript is disabled', async ({ browser }, te
     viewport: testInfo.project.name === 'mobile' ? { width: 390, height: 844 } : { width: 1440, height: 1000 }
   });
   const page = await context.newPage();
-  await page.goto('http://127.0.0.1:4173/');
+  await page.goto('http://127.0.0.1:14173/');
 
   await expect(page.locator('h1')).toBeVisible();
   await expect(page.getByText('Recursos que já funcionam em um grupo real.')).toBeVisible();
