@@ -8,3 +8,7 @@ playwright-report/
 !.env.example
 .vercel/
 *.log
+graphify-out/.graphify_*
+graphify-out/cache/
+graphify-out/cost.json
+graphify-out/manifest.json
