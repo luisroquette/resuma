@@ -27,3 +27,29 @@ test('GitHub Pages robots and sitemap are valid public endpoints', async ({ requ
   expect(sitemap.ok()).toBeTruthy();
   expect(await sitemap.text()).toContain('<loc>https://luisroquette.github.io/resuma/</loc>');
 });
+
+test('GitHub Pages demo is keyboard accessible and keeps the layout inside the viewport', async ({ page }) => {
+  const errors = [];
+  page.on('console', (message) => {
+    if (message.type() === 'error') errors.push(message.text());
+  });
+
+  await page.goto('http://127.0.0.1:14174/');
+  const summaryTab = page.getByRole('tab', { name: 'SUMMARY' });
+  const questionTab = page.getByRole('tab', { name: '!PERGUNTA' });
+  const eventTab = page.getByRole('tab', { name: 'GROUP EVENT' });
+
+  await summaryTab.focus();
+  await summaryTab.press('ArrowRight');
+  await expect(questionTab).toBeFocused();
+  await expect(questionTab).toHaveAttribute('aria-selected', 'true');
+  await expect(page.getByRole('tabpanel')).toContainText('Registration closes tomorrow.');
+
+  await questionTab.press('End');
+  await expect(eventTab).toBeFocused();
+  await expect(page.getByRole('tabpanel')).toContainText('A participant left the group');
+
+  const hasHorizontalOverflow = await page.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth);
+  expect(hasHorizontalOverflow).toBe(false);
+  expect(errors).toEqual([]);
+});
